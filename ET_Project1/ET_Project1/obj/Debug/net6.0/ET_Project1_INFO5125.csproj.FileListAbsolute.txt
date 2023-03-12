@@ -1,0 +1,15 @@
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\bin\Debug\net6.0\ET_Project1_INFO5125.exe
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\bin\Debug\net6.0\ET_Project1_INFO5125.deps.json
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\bin\Debug\net6.0\ET_Project1_INFO5125.runtimeconfig.json
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\bin\Debug\net6.0\ET_Project1_INFO5125.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.csproj.AssemblyReference.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.AssemblyInfoInputs.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.AssemblyInfo.cs
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.csproj.CoreCompileInputs.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\refint\ET_Project1_INFO5125.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.pdb
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ET_Project1_INFO5125.genruntimeconfig.cache
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\obj\Debug\net6.0\ref\ET_Project1_INFO5125.dll
+C:\Users\Kaboo\OneDrive\Desktop\School\INFO5125 - Software Design Patterns\Project 1 - Due Feb 13\ET_Project1_INFO5125\ET_Project1_INFO5125\bin\Debug\net6.0\ET_Project1_INFO5125.pdb
